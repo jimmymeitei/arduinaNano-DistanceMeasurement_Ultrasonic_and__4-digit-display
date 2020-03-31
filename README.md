@@ -1,4 +1,4 @@
-# arduinaNano-Distance_4-digit-display
+# arduinaNano-Distance_Measurement Using Ultrasonic sensor and 4-digit-display
 
 Requirements:
 
